@@ -35,4 +35,4 @@ COPY --chown=litecoin:litecoin --from=builder /opt/builder/litecoin-${VERSION}/b
 # https://litecoin.info/index.php/Litecoin.conf
 EXPOSE 9333
 
-ENTRYPOINT [ "/opt/litecoin/litecoind" ]
+ENTRYPOINT [ "/opt/litecoin/litecoind", "-printtoconsole" ]
