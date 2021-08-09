@@ -1,44 +1,39 @@
 services: docker
 env:
   global:
-    - IMAGE_NAME: devzx/litecoin
-    - IMAGE_VERSION: 0.18.1
-    - secure: mja6DWcqCCcev+qM0PsB/DDdKzLjJlfzGxwrawUu8w+LkwFWZm5VzIkE/Hux0onTFBnVlotHApFxUAxhzVNLJoVF4rMrZdyDDPkNsG4cgWTUxPdUTCfTH8qc2SFSR7ouN11j4z4gRo9B4kNTTlfu/t5uijubcmKO5NrB3l0suHjVWyUB7Nc5w6rhw2lNFHMZHCseEzuo4YZEzo57J2yzemjLquniH+wlXPzhI1X/Tl8SA1YtTDN/MmVQrTb978rhq278c6OFHtMA4+J6hnx84AqTWanvdmc48mw9TX8HNeXHW7NQGxiICc7e/fRLmhG0Rp0G52S22uhKR8GNLk0pF4W1U1ioxtlCHXO2J3RXIBSLboZk0ySF1xrCPp4/iGoFLSX22c23aUVLHqTW5+INU8B5oqIE2/Yx8f3mLspEU6v7JS5cio8a3PMSp4KY/csQ2qMlOaYASaw8+OJUp5htW7Fp5lGdqqYrioHVHi6K8b/eqdNkfRID57gdJUPkMRpRg25bSiD+0xFjGlOgWN4bZadLdZLyulsWF72XB7JSPeSdEtViSEjGNXzWOrBX9+Ro4F+v8m5hDbNn8EDVYNWoPDRKdlFb7pnS+UBa+8Pqw8zJy0mbA/tnMecjgvMDOVf5Q+G7C0cVvo2cgwxJ46oA2erlwVw+2C7sJC9lkR3UnpE=
-    - secure: FHEWmbWKExSVeKmRfHJSRHfcZt3ntNqaurI2eeqSwxx4RJ4KBPBr3Ckg4+OOjXLjJLAdCgraz/DbIVlnpWtlbwkeDbcOKS3lt9WzH5uk4t2q2UUsTskgXLy6WSiep/sKqv1MPsqAfnppUtEaOeLs1vBk5Ulm1dkktWLfTGzZ+oE020zfLnxc2aDa0KSJmfKUY/Y8B3miR6bYLxO8SbGTr373+oDSWbYfH7b76HsGCbflgY+NZRvRreRSB1WD3zYE6zTmy8EtMU+4K6B3UrnlGRj/kMUxEBBe/f8hSnL8xXR3CXBE0QgQYHDJy72+FjAwk2fazKB18IYh6hYPcnHp+6tWMfUXe9hbslrsiLuv4jKpTxjpUHEWab1GReQFADOQOYBf+uAf6bUVqiaIaigcZvJrBAcDFxpNvhZgF0Ux9XjA7XaWh2SypLLCDpW5gk+D2vOw7zPcl4mE6kO+UCYUbxS9a2GnB88m5BQoUTelpoRohYu/Q3P7x5PMMLz6ENVVRWT2ImcSiNofHonOVxlzAh3uwJej/u/ZW9d5uP85HM5Qol0yYOgmAJFIhfIZMUvIcPdKZ5QHyuUGPr6c9x1U3BkLLKv4klCxK5yaNrj293OHlZ2jQRol0+jbTayGmk3xj6ObDnzhOJyvW4mxc/qnrtva8KFDioMoXlPNGTkBhfk=
-
+  - IMAGE_NAME: devzx/litecoin
+  - IMAGE_VERSION: 0.18.1
+  - secure: mja6DWcqCCcev+qM0PsB/DDdKzLjJlfzGxwrawUu8w+LkwFWZm5VzIkE/Hux0onTFBnVlotHApFxUAxhzVNLJoVF4rMrZdyDDPkNsG4cgWTUxPdUTCfTH8qc2SFSR7ouN11j4z4gRo9B4kNTTlfu/t5uijubcmKO5NrB3l0suHjVWyUB7Nc5w6rhw2lNFHMZHCseEzuo4YZEzo57J2yzemjLquniH+wlXPzhI1X/Tl8SA1YtTDN/MmVQrTb978rhq278c6OFHtMA4+J6hnx84AqTWanvdmc48mw9TX8HNeXHW7NQGxiICc7e/fRLmhG0Rp0G52S22uhKR8GNLk0pF4W1U1ioxtlCHXO2J3RXIBSLboZk0ySF1xrCPp4/iGoFLSX22c23aUVLHqTW5+INU8B5oqIE2/Yx8f3mLspEU6v7JS5cio8a3PMSp4KY/csQ2qMlOaYASaw8+OJUp5htW7Fp5lGdqqYrioHVHi6K8b/eqdNkfRID57gdJUPkMRpRg25bSiD+0xFjGlOgWN4bZadLdZLyulsWF72XB7JSPeSdEtViSEjGNXzWOrBX9+Ro4F+v8m5hDbNn8EDVYNWoPDRKdlFb7pnS+UBa+8Pqw8zJy0mbA/tnMecjgvMDOVf5Q+G7C0cVvo2cgwxJ46oA2erlwVw+2C7sJC9lkR3UnpE=
+  - secure: FHEWmbWKExSVeKmRfHJSRHfcZt3ntNqaurI2eeqSwxx4RJ4KBPBr3Ckg4+OOjXLjJLAdCgraz/DbIVlnpWtlbwkeDbcOKS3lt9WzH5uk4t2q2UUsTskgXLy6WSiep/sKqv1MPsqAfnppUtEaOeLs1vBk5Ulm1dkktWLfTGzZ+oE020zfLnxc2aDa0KSJmfKUY/Y8B3miR6bYLxO8SbGTr373+oDSWbYfH7b76HsGCbflgY+NZRvRreRSB1WD3zYE6zTmy8EtMU+4K6B3UrnlGRj/kMUxEBBe/f8hSnL8xXR3CXBE0QgQYHDJy72+FjAwk2fazKB18IYh6hYPcnHp+6tWMfUXe9hbslrsiLuv4jKpTxjpUHEWab1GReQFADOQOYBf+uAf6bUVqiaIaigcZvJrBAcDFxpNvhZgF0Ux9XjA7XaWh2SypLLCDpW5gk+D2vOw7zPcl4mE6kO+UCYUbxS9a2GnB88m5BQoUTelpoRohYu/Q3P7x5PMMLz6ENVVRWT2ImcSiNofHonOVxlzAh3uwJej/u/ZW9d5uP85HM5Qol0yYOgmAJFIhfIZMUvIcPdKZ5QHyuUGPr6c9x1U3BkLLKv4klCxK5yaNrj293OHlZ2jQRol0+jbTayGmk3xj6ObDnzhOJyvW4mxc/qnrtva8KFDioMoXlPNGTkBhfk=
+  - secure: RjUbC/vkR2VKvQPpO9tuimpRL4sdZw6OnU5DYOxB/sGJg3N6aGCW2YjqsYIhg5CH4RcEtE2pUm+3XfYQ9faAP/oDBoz8wM01FNHyWe1jR96dKbuMh5ifrtdlPG9vE2iMvZ8CKKl1yJRfCWP0AfWkWA+ONNmkyKBj/zMTmgpsM6GWxPQWDtM6IBKHK95XxVmxPmv0P0SDU/etK7nshqbZr6zYeyM3AgLxe0ZWcZVpfb44zFb1p/2Cg+4mZJdt0hEwx9ezniSVKR7vtN94ZcjW7kbRNS00NdbrrMCls2QvAw/Fh3YeymH42dK0nrLAXsrHhr5Kx77ocey1AnBmmbZnE3CTMSTH0St6nZE/CrATFGeGAa9NTousJEWOziCMlleJuG3nKnF31RnyhKUluBuRPWfV0UpNFxKj641siV4CLTwnAYPJzbxqILEe/pNO7MZttVU3rRZU6CNnLkX5qXBhm8CqmqHO8MyG9KbwCd8X4uw1wE/4RCj6pbk9kLnCwbRGCsOM1m2YBPMvBrFhnhs04u43PdzEFCzUKNZlO3+SmawA4vAy9LvH5jRjQ0igWTaWvEmQI/1UHy7azdAtmpT2xOTYHopkb5GXQRzanKTx98BsrxYSTSxXNiK7KUisQUGo/p93g3DqaaDQ1iAcs5IWzA9GkKuL0QkoA/PACHFE9cw=
+  - secure: qC1eTIS0RjDh+RAXP16UQsYTuwcl2LuL0zxCO66PHW8LIrlHmASmnbUaLmprXu9y7M1GY5EQRbL0KNNXbWm3xYqvmNDZqqqww6UJPDKktaNTLdYU7H7fssNH4vZlAEF9nIp4nV+k6kPBb5iE9Oa1RalgF46HlJ1yiuweTGOZqsVvLO1IcMxnZKc10O+p5ePR7XAPx8ryO7dYj2o5/IjCRnBZrarKpgBHsZxUKYJQIuKj51mwfupf0X9qzJD+9LGakgqufBBhhq8XLXWu7heMIGwbGAcXAtAFbd6TSK3/oQ1FvOvIL+i05J22NzTbooW944hfqM3Ao89tKfr6r8ud7sBmGwxb5fDpJ7kauq6oQBLQpy5sIqVweux0cpXdKeWnsg/go4+PGQurS7dPSS3ReNJr9iBnnMQ+XNr0TkUonVJAR+JVST87MmeAGcHAnikJ6nYtf1BS05jsb6Gy+F1VXlM51C26v3P2QtFS125+3LJiV7JGEXRBS8PVczHSYjFx5R+cJxzNk7G/h1NB2z4PogK36ZPSFFmYaWioh8KrpAH1R5mIg/9+AFINq4x5Jc+mDGoW+1R9S4YQ77UMF81TJWwHZtiJvqNqXxzzByz7NVQ1KlJFo1x/H8904PCBnHC6vYSRq+uwSB55fU38QEDzar7wKqfe8l6Fn4uZ/LV5Cv4=
 stages:
-  - name: build
-    if: branch != master
-  - name: build push tag
-    if: branch == master
-  - name: deploy
-    if: branch == master
-
+- name: build
+  if: branch != master
+- name: build push tag
+  if: branch == master
+- name: deploy
+  if: branch == master
 jobs:
   include:
-    - stage: build
-      script:
-        - docker build --build-arg VERSION=$IMAGE_VERSION -t $IMAGE_NAME:$IMAGE_VERSION .
-
-    - stage: build push tag
-      script:
-        - docker build --build-arg VERSION=$IMAGE_VERSION -t $IMAGE_NAME:$IMAGE_VERSION .
-        - echo $DOCKER_PASSWORD | docker login --username $DOCKER_USERNAME --password-stdin
-        - docker push $IMAGE_NAME:$IMAGE_VERSION
-        # Tag and push
-        # - git tag $IMAGE_VERSION
-        # - git push origin $IMAGE_VERSION
-
-    - stage: deploy
-      script:
-        # Placeholder for deploying to an actual cluster replace with: helm / updating a gitops deployment repo / simply using kubectl etc
-        # For the puropses of this test I'm opting to deploy to kind
-        - curl -LOfSs "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-        - curl -LOfSs "https://dl.k8s.io/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl.sha256"
-        - echo "$(<kubectl.sha256) kubectl" | sha256sum -c --status
-        - chmod +x ./kubectl
-        - curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.11.1/kind-linux-amd64
-        - chmod +x ./kind
-        - ./kind create cluster --name kraken --config kind-config.yaml
-        - ./kubectl create -f statefulset.yaml
-        - ./kubectl rollout status -n litecoin statefulset/litecoin
+  - stage: build
+    script:
+    - docker build --build-arg VERSION=$IMAGE_VERSION -t $IMAGE_NAME:$IMAGE_VERSION
+      .
+  - stage: build push tag
+    script:
+    - docker build --build-arg VERSION=$IMAGE_VERSION -t $IMAGE_NAME:$IMAGE_VERSION
+      .
+    - echo $DOCKER_PASSWORD | docker login --username $DOCKER_USERNAME --password-stdin
+    - docker push $IMAGE_NAME:$IMAGE_VERSION
+  - stage: deploy
+    script:
+    - curl -LOfSs "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+    - curl -LOfSs "https://dl.k8s.io/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl.sha256"
+    - echo "$(<kubectl.sha256) kubectl" | sha256sum -c --status
+    - chmod +x ./kubectl
+    - curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.11.1/kind-linux-amd64
+    - chmod +x ./kind
+    - "./kind create cluster --name kraken --config kind-config.yaml"
+    - "./kubectl create -f statefulset.yaml"
+    - "./kubectl rollout status -n litecoin statefulset/litecoin"
