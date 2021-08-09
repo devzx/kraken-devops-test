@@ -1,0 +1,247 @@
+Red list
+	Afghanistan
+	Angola
+	Argentina
+	Bahrain
+	Bangladesh
+	Bolivia
+	Botswana
+	Brazil
+	Burundi
+	Cape Verde
+	Chile
+	Colombia
+	Congo (Democratic Republic)
+	Costa Rica
+	Cuba
+	Dominican Republic
+	Ecuador
+	Egypt
+	Eritrea
+	Eswatini
+	Ethiopia
+	French Guiana
+	Georgia
+	Guyana
+	Haiti
+	India
+	Indonesia
+	Kenya
+	Lesotho
+	Malawi
+	Maldives
+	Mayotte
+	Mexico
+	Mongolia
+	Mozambique
+	Myanmar
+	Namibia
+	Nepal
+	Oman
+	Pakistan
+	Panama
+	Paraguay
+	Peru
+	Philippines
+	Qatar
+	Réunion
+	Rwanda
+	Seychelles
+	Sierra Leone
+	Somalia
+	South Africa
+	Sri Lanka
+	Sudan
+	Suriname
+	Tanzania
+	Trinidad and Tobago
+	Tunisia
+	Turkey
+	Uganda
+	United Arab Emirates (
+	Uruguay
+	Venezuela
+	Zambia
+	Zimbabwe
+Amber list
+	Akrotiri and Dhekelia
+	Albania
+	Algeria
+	Andorra
+	Armenia
+	Aruba
+	Austria
+	Azerbaijan
+	The Bahamas
+	Bahrain
+	Belarus
+	Belgium
+	Belize
+	Benin
+	Bhutan
+	Bonaire, Sint Eustatius and Saba
+	Bosnia and Herzegovina
+	British Virgin Islands
+	Burkina Faso
+	Cambodia
+	Cameroon
+	Canada
+	Central African Republic
+	Chad
+	China
+	Comoros
+	Congo
+	Cook Islands, Tokelau and Niue
+	Côte d’Ivoire
+	Curaçao
+	Cyprus
+	Czech Republic (Czechia)
+	Denmark
+	Djibouti
+	El Salvador
+	Equatorial Guinea
+	Estonia
+	Fiji
+	Finland
+	France
+	French Polynesia
+	Gabon
+	The Gambia
+	Georgia
+	Germany
+	Ghana
+	Greece (including islands)
+	Greenland
+	Guadeloupe
+	Guatemala
+	Guinea
+	Guinea-Bissau
+	Honduras
+	Hungary
+	India
+	Iran
+	Iraq
+	Italy
+	Jamaica
+	Japan
+	Jordan
+	Kazakhstan
+	Kiribati
+	Kosovo
+	Kuwait
+	Kyrgyzstan
+	Laos
+	Latvia
+	Lebanon
+	Liberia
+	Libya
+	Liechtenstein
+	Lithuania
+	Luxembourg
+	Macao
+	Madagascar
+	Malaysia
+	Mali
+	Marshall Islands
+	Martinique
+	Mauritania
+	Mauritius
+	Mayotte
+	Mexico
+	Micronesia
+	Moldova
+	Monaco
+	Montenegro
+	Morocco
+	Nauru
+	Netherlands
+	New Caledonia
+	Nicaragua
+	Niger
+	Nigeria
+	North Korea
+	North Macedonia
+	Norway
+	The Occupied Palestinian Territories
+	Palau
+	Papua New Guinea
+	Poland
+	Portugal (including the Azores)
+	Qatar
+	Réunion
+	Romania
+	Russia
+	Samoa
+	San Marino
+	Sao Tome and Principe
+	Saudi Arabia
+	Senegal
+	Serbia
+	Slovakia
+	Slovenia
+	Solomon Islands
+	South Korea
+	South Sudan
+	Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)
+	St Kitts and Nevis
+	St Lucia
+	St Maarten
+	St Martin and St Barthélemy
+	St Pierre and Miquelon
+	St Vincent and the Grenadines
+	Sweden
+	Switzerland
+	Syria
+	Tajikistan
+	Thailand
+	Timor-Leste
+	Togo
+	Tonga
+	Turkmenistan
+	Tuvalu
+	Ukraine
+	United Arab Emirates
+	United States (
+	Uzbekistan
+	Vanuatu
+	Vietnam
+	Wallis and Futuna
+	Western Sahara
+	Yemen
+Green list
+	Anguilla
+	Antarctica/British Antarctic Territory
+	Antigua and Barbuda
+	Austria
+	Australia
+	Barbados
+	Bermuda
+	British Indian Ocean Territory
+	Brunei
+	Bulgaria
+	Cayman Islands
+	Croatia
+	Dominica
+	Falkland Islands
+	Faroe Islands
+	Germany
+	Gibraltar
+	Grenada
+	Hong Kong
+	Iceland
+	Israel and Jerusalem
+	Latvia
+	Madeira
+	Malta
+	Montserrat
+	New Zealand
+	Norway
+	Pitcairn, Henderson, Ducie and Oeno Islands
+	Romania
+	Singapore
+	Slovakia
+	Slovenia
+	South Georgia and South Sandwich Islands
+	St Helena, Ascension and Tristan da Cunha
+	Taiwan
+	Turks and Caicos Islands
